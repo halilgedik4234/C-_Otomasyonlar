@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\bin\Debug\YILAN OYUNU.exe.config
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\bin\Debug\YILAN OYUNU.exe
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\bin\Debug\YILAN OYUNU.pdb
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\obj\Debug\Yilan Oyunu.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\obj\Debug\Yilan Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\obj\Debug\yilan.Form1.resources
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\obj\Debug\YILAN_OYUNU.Properties.Resources.resources
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\obj\Debug\Yilan Oyunu.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\obj\Debug\Yilan Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\obj\Debug\YILAN OYUNU.exe
+C:\Users\Halil Gedik\source\repos\YILAN OYUNU\obj\Debug\YILAN OYUNU.pdb

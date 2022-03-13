@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\bin\x86\Debug\Kitaplık_ProjeAccess.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\bin\x86\Debug\Kitaplık_ProjeAccess.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\bin\x86\Debug\Kitaplık_ProjeAccess.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\obj\x86\Debug\Kitaplık_ProjeAccess.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\obj\x86\Debug\Kitaplık_ProjeAccess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\obj\x86\Debug\Kitaplık_ProjeAccess.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\obj\x86\Debug\Kitaplık_ProjeAccess.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\obj\x86\Debug\Kitaplık_ProjeAccess.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\obj\x86\Debug\Kitaplık_ProjeAccess.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\obj\x86\Debug\Kitaplık_ProjeAccess.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Kitaplık_ProjeAccess\obj\x86\Debug\Kitaplık_ProjeAccess.pdb

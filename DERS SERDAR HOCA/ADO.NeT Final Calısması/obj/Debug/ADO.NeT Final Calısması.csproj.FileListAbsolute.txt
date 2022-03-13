@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\bin\Debug\ADO.NeT Final Calısması.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\bin\Debug\ADO.NeT Final Calısması.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\bin\Debug\ADO.NeT Final Calısması.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\obj\Debug\ADO.NeT Final Calısması.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\obj\Debug\ADO.NeT Final Calısması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\obj\Debug\ADO.NeT_Final_Calısması.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\obj\Debug\ADO.NeT_Final_Calısması.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\obj\Debug\ADO.NeT Final Calısması.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\obj\Debug\ADO.NeT Final Calısması.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\obj\Debug\ADO.NeT Final Calısması.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\ADO.NeT Final Calısması\obj\Debug\ADO.NeT Final Calısması.pdb

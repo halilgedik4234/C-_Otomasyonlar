@@ -42,6 +42,32 @@ namespace Secim_IstatistikVeGrafikSistemi
                 chart1.Series["Partiler"].Points.AddXY("A PARTİ", dr2[3]);
                 chart1.Series["Partiler"].Points.AddXY("A PARTİ", dr2[4]);
             }
+            adres.Close();
+
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            adres.Open();
+            SqlCommand cmd = new SqlCommand("Select * from TBLILCE where ILCEAD=@p1",adres);
+            cmd.Parameters.AddWithValue("@p1", comboBox1.Text);
+            SqlDataReader dr = cmd.ExecuteReader();
+            while (dr.Read())
+            {
+                progressBar1.Value = int.Parse(dr[2].ToString());
+                progressBar2.Value = int.Parse(dr[3].ToString());
+                progressBar3.Value = int.Parse(dr[4].ToString());
+                progressBar4.Value = int.Parse(dr[5].ToString());
+                progressBar5.Value = int.Parse(dr[6].ToString());
+
+                labela.Text = dr[2].ToString();
+                labelb.Text = dr[3].ToString();
+                labelc.Text = dr[4].ToString();
+                labeld.Text = dr[5].ToString();
+                labele.Text = dr[6].ToString();
+            }
+            adres.Close();
         }
     }
 }

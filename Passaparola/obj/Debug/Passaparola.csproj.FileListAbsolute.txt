@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\bin\Debug\Passaparola.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\bin\Debug\Passaparola.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\bin\Debug\Passaparola.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\obj\Debug\Passaparola.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\obj\Debug\Passaparola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\obj\Debug\Passaparola.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\obj\Debug\Passaparola.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\obj\Debug\Passaparola.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\obj\Debug\Passaparola.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\obj\Debug\Passaparola.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\Passaparola\obj\Debug\Passaparola.pdb

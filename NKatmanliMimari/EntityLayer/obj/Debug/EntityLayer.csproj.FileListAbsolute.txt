@@ -1,6 +1,0 @@
-C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\EntityLayer\bin\Debug\EntityLayer.dll
-C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\EntityLayer\bin\Debug\EntityLayer.pdb
-C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
-C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
-C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\EntityLayer\obj\Debug\EntityLayer.dll
-C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\EntityLayer\obj\Debug\EntityLayer.pdb

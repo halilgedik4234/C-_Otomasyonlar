@@ -1,0 +1,11 @@
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\bin\Debug\FilmArsivi.exe.config
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\bin\Debug\FilmArsivi.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\bin\Debug\FilmArsivi.pdb
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\obj\Debug\FilmArsivi.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\obj\Debug\FilmArsivi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\obj\Debug\FilmArsivi.Form1.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\obj\Debug\FilmArsivi.Properties.Resources.resources
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\obj\Debug\FilmArsivi.csproj.GenerateResource.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\obj\Debug\FilmArsivi.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\obj\Debug\FilmArsivi.exe
+C:\Users\Halil Gedik\Desktop\C# Uygulamalı Çalışmalar\Uygulamalar (önemli)\FilmArsivi\obj\Debug\FilmArsivi.pdb

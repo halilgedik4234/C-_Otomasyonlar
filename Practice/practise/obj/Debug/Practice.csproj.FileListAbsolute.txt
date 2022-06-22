@@ -1,0 +1,13 @@
+C:\Users\Halil Gedik\Desktop\Practice\bin\Debug\Practice.exe.config
+C:\Users\Halil Gedik\Desktop\Practice\bin\Debug\Practice.exe
+C:\Users\Halil Gedik\Desktop\Practice\bin\Debug\Practice.pdb
+C:\Users\Halil Gedik\Desktop\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\Practice\obj\Debug\Practice.exe
+C:\Users\Halil Gedik\Desktop\Practice\obj\Debug\Practice.pdb
+C:\Users\Halil Gedik\Desktop\Practice\bin\Debug\EntityFramework.dll
+C:\Users\Halil Gedik\Desktop\Practice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Halil Gedik\Desktop\Practice\bin\Debug\EntityFramework.xml
+C:\Users\Halil Gedik\Desktop\Practice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Halil Gedik\Desktop\Practice\obj\Debug\Practice.csproj.CopyComplete

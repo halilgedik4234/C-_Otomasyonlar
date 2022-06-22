@@ -1,0 +1,208 @@
+﻿//int x =Convert.ToInt32(Console.ReadLine());
+            //int birler = x % 10;
+            //x = x / 10;
+            //int onlar=x%10;
+            //x = x / 10;
+            //int yuzler = x % 10;
+            //x=x/10;
+            //int binler = x%10;
+            //x=x%10;
+            //Console.WriteLine("Binler Basamağı: " + binler);
+            //Console.WriteLine("Yüzler Basamağı: " + yuzler);
+            //Console.WriteLine("Onlar Basamağı: " + onlar);
+            //Console.WriteLine("Birler Basamağı: " + birler);
+            
+            //int toplam = binler + yuzler + onlar + birler;
+            //Console.WriteLine(toplam); 
+
+
+            //                  --METOTLAR--
+
+            //geriye değer döndüren / ve döndürmeyen
+
+            //void Yazdir()
+            //{
+            //    Console.WriteLine("Hoşgeldiniz");
+            //    Console.WriteLine("Ne kadar güzel bir gün");
+            //    Console.WriteLine("Bilgileriniz işleniyor....");
+            //    Console.WriteLine("Lütfen Bekleyiniz..");
+            //}
+
+            //Yazdir();
+
+            //void topla()
+            //{
+            //    int s1, s2;
+            //    s1=Convert.ToInt32(Console.ReadLine());
+            //    s2=Convert.ToInt32(Console.ReadLine());
+            //    int ort = s1 + s2;
+            //    Console.WriteLine(ort);
+            //}
+            //topla();
+
+            //void KisiBilgi(string ad,string soyad,string sehir,int yas)
+            //{
+            //    Console.WriteLine("Ad: "+ad);
+            //    Console.WriteLine("soyad: "+soyad);
+            //    Console.WriteLine("Yas: "+yas);
+            //    Console.WriteLine("Sehir: "+sehir);
+            //}
+            //KisiBilgi("Halil","Gedik","İstanbul",21);
+
+            // void topla(int s1, int s2)
+            //{
+            //    int sonuc = s1 + s2;
+            //    Console.WriteLine(sonuc);
+            //}
+            //topla(55, 77);
+
+            //void ort(string ad, string soyad, int s1, int s2,int s3)
+            //{
+            //    int ortalama = (s1 + s2 + s3) / 3;
+            //    Console.WriteLine("Ad: " + ad);
+            //    Console.WriteLine("Soyad: "+soyad);
+            //    Console.WriteLine("Ortalaması: "+ortalama);
+            //}
+            //ort("Veli", "Kanta", 45, 75, 85);
+
+
+            //GERİYE DEĞER DÖNDÜREN METOTLAR
+            //int topla(int x,int y)
+            //{
+            //    int sonuc = x + y;
+            //    return sonuc;
+            //}
+            //Console.WriteLine(topla(21, 25));
+
+
+             //                  --CLASSES--
+
+            //void yazdir(ClassCar a)
+            //{
+            //    Console.WriteLine(a.Marka);
+            //    Console.WriteLine(a.Model);
+            //    Console.WriteLine(a.renk);
+            //    Console.WriteLine(a.Yıl);
+            //    Console.WriteLine("*************************");
+            //}
+
+            //ClassCar car1=new ClassCar();
+            //car1.Marka = "Audi";
+            //car1.Model = "A8";
+            //car1.renk = "Gri";
+            //car1.Yıl = 2020;
+            //yazdir(car1);
+
+
+            //ClassCar car2 = new ClassCar() { Marka = "BMW", Model = "5.20", renk = "Siyah", Yıl = 2021 };
+            //yazdir(car2);
+
+            //Visitor visitor1 = new Visitor() { ID = 1, Name = "Halil", City = "Turkey" };
+            //visitor1.mesaj(visitor1);
+
+            //Visitor visitor2 = new Visitor() { ID = 2, Name = "Hakan", City = "England" };
+            //visitor2.mesaj(visitor2);
+
+
+
+
+                         --- SQL İLE C# CRUD İŞLEMLERİ ---
+
+            ConnectionClass Connection = new ConnectionClass();
+
+
+            //Listeleme işlemi  Personel listeleme
+            void PersonelListele()
+            {
+                SqlCommand cmd = new SqlCommand("Select * From tblpersonel", Connection.baglanti());
+
+                SqlDataReader dr = cmd.ExecuteReader();
+                while (dr.Read())
+                {
+                    Console.WriteLine(dr[0] + " " + dr[1] + " " + dr[2]+" --- " + dr[3]);
+                    Console.WriteLine("-------------------------------------");
+                }
+                Connection.baglanti().Close();
+            }
+            // PersonelListele()
+
+
+
+            //Ekleme işlemi
+            void PersonelEkleme(string p1, string p2, string p3)
+            {
+                SqlCommand cmd = new SqlCommand("insert into tblpersonel (ad,soyad,departman) values (@p1,@p2,@p3)", Connection.baglanti());
+                cmd.Parameters.AddWithValue("@p1", p1);
+                cmd.Parameters.AddWithValue("@p2", p2);
+                cmd.Parameters.AddWithValue("@p3", p3);
+                cmd.ExecuteNonQuery();
+                Connection.baglanti().Close();
+
+                PersonelListele(); // neden bu metotu çağırıyoruz burda, çünkü ekleme işlemi yaptıktan sonra tabloya eklenmiş mi eklenmemiş mi diye bakmak için. Not diğer güncelleme silme işlemleri içinde kullandık.
+            }
+            // PersonelEkleme("Resul","Kara","Bilgisayar Müh");
+
+
+
+            //Guncelleme İşlemi
+            void PersonelGuncelleme(string p1, string p2, string p3,int p4)
+            {
+                SqlCommand cmd = new SqlCommand("update tblpersonel set ad=@p1,soyad=@p2,departman=@p3 where id=@p4",Connection.baglanti());
+                cmd.Parameters.AddWithValue("@p1", p1);
+                cmd.Parameters.AddWithValue("@p2", p2);
+                cmd.Parameters.AddWithValue("@p3", p3);
+                cmd.Parameters.AddWithValue("@p4", p4);
+                cmd.ExecuteNonQuery();
+                Connection.baglanti().Close();
+                PersonelListele();
+            }
+            // PersonelGuncelleme("Resul", "Kara", "Satış",1);
+
+
+
+            // Silme İşlemi
+            void PersonelSilme(int p1)
+            {
+                SqlCommand cmd = new SqlCommand("delete from tblpersonel where id=@p1",Connection.baglanti());
+                cmd.Parameters.AddWithValue("@p1", p1);
+                cmd.ExecuteNonQuery();
+                Connection.baglanti().Close();
+                PersonelListele();
+            }
+            // PersonelEkleme("ahmeti", "Sil", "temizlik");
+            // PersonelSilme(9);
+
+
+
+            // ARAMA işlemi
+            void PersonelAra()
+            {
+                Console.WriteLine("************************");
+                Console.WriteLine("Aranacak Personelin adını giriniz: ");
+                string ad = Console.ReadLine();
+                SqlCommand cmd = new SqlCommand("Select * from tblpersonel where ad=@p1", Connection.baglanti());
+                cmd.Parameters.AddWithValue("@p1", ad);
+                SqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    Console.WriteLine(reader[0] + " " + reader[1] + " " + reader[2] + " --- " + reader[3]);
+                }
+                Connection.baglanti().Close();
+            }
+            //PersonelAra();
+
+
+            //  ** İstatistik İşlemleri **
+
+            //SqlCommand komut = new SqlCommand("Select count(*) from tblpersonel", Connection.baglanti());
+
+            //SqlDataReader reader2 = komut.ExecuteReader();
+            //while (reader2.Read())
+            //{
+            //    Console.WriteLine("Toplam Personel Sayısı: " + reader2[0]);
+            //    Connection.baglanti.Close();
+            //}
+
+
+
+            //Console.ReadLine();

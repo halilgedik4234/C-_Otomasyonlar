@@ -1,0 +1,15 @@
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\bin\Debug\Console_CodeFirst_Calismasi.exe.config
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\bin\Debug\Console_CodeFirst_Calismasi.exe
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\bin\Debug\Console_CodeFirst_Calismasi.pdb
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\bin\Debug\EntityFramework.dll
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\bin\Debug\EntityFramework.xml
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\obj\Debug\Console_CodeFirst_Calismasi.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\obj\Debug\Console_CodeFirst_Calismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\obj\Debug\Console_CodeFirst_Calismasi.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\obj\Debug\Console_CodeFirst_Calismasi.csproj.CopyComplete
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\obj\Debug\Console_CodeFirst_Calismasi.exe
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\obj\Debug\Console_CodeFirst_Calismasi.pdb
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\obj\Debug\Console_CodeFirst_Calismasi.Migrations.mig1.resources
+C:\Users\Halil Gedik\Desktop\Console_CodeFirst_Calismasi\obj\Debug\Console_CodeFirst_Calismasi.csproj.GenerateResource.cache

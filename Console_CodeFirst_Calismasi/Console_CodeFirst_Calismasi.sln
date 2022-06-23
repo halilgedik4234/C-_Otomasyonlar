@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_CodeFirst_Calismasi", "Console_CodeFirst_Calismasi.csproj", "{B21CB4FD-28EF-4148-8ECD-025D458BD95B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21CB4FD-28EF-4148-8ECD-025D458BD95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21CB4FD-28EF-4148-8ECD-025D458BD95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21CB4FD-28EF-4148-8ECD-025D458BD95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21CB4FD-28EF-4148-8ECD-025D458BD95B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5DB97AD-BF55-413A-947F-6D557EBD3133}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Quiz_Uygulaması/1.0.0": {
+        "runtime": {
+          "Quiz_Uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz_Uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

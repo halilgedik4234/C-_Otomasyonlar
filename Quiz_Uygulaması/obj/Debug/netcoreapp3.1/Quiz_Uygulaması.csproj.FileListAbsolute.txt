@@ -1,0 +1,14 @@
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\bin\Debug\netcoreapp3.1\Quiz_Uygulaması.exe
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\bin\Debug\netcoreapp3.1\Quiz_Uygulaması.deps.json
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\bin\Debug\netcoreapp3.1\Quiz_Uygulaması.runtimeconfig.json
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\bin\Debug\netcoreapp3.1\Quiz_Uygulaması.runtimeconfig.dev.json
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\bin\Debug\netcoreapp3.1\Quiz_Uygulaması.dll
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\bin\Debug\netcoreapp3.1\Quiz_Uygulaması.pdb
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\obj\Debug\netcoreapp3.1\Quiz_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\obj\Debug\netcoreapp3.1\Quiz_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\obj\Debug\netcoreapp3.1\Quiz_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\obj\Debug\netcoreapp3.1\Quiz_Uygulaması.AssemblyInfo.cs
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\obj\Debug\netcoreapp3.1\Quiz_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\obj\Debug\netcoreapp3.1\Quiz_Uygulaması.dll
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\obj\Debug\netcoreapp3.1\Quiz_Uygulaması.pdb
+C:\Users\Halil Gedik\Desktop\FullStackWeb\C#\Quiz_Uygulaması\obj\Debug\netcoreapp3.1\Quiz_Uygulaması.genruntimeconfig.cache
